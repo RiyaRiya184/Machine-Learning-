@@ -63,10 +63,10 @@ Polynomial Regression with degree 2 was used to model the relationship between Y
 
 | Metric | Value |
 |---|---:|
-| MSE | PASTE VALUE HERE |
-| RMSE | PASTE VALUE HERE |
-| MAE | PASTE VALUE HERE |
-| R² | PASTE VALUE HERE |
+| MSE | 18311.8383 |
+| RMSE | 135.3212 |
+| MAE | 119.5050 |
+| R² | 0.9797 |
 
 ### Graph
 
@@ -86,10 +86,10 @@ Multivariate Regression was used to predict wheat yield using:
 
 | Metric | Value |
 |---|---:|
-| MSE | PASTE VALUE HERE |
-| RMSE | PASTE VALUE HERE |
-| MAE | PASTE VALUE HERE |
-| R² | PASTE VALUE HERE |
+| MSE | 9648.939904 |
+| RMSE | 98.22901 |
+| MAE | 81.0383 |
+| R² | 0.989344 |
 
 ### Graph
 
@@ -101,9 +101,9 @@ Multivariate Regression was used to predict wheat yield using:
 
 | Model | MSE | RMSE | MAE | R² |
 |---|---:|---:|---:|---:|
-| Linear Regression | VALUE | VALUE | VALUE | VALUE |
-| Polynomial Regression | VALUE | VALUE | VALUE | VALUE |
-| Multivariate Regression | VALUE | VALUE | VALUE | VALUE |
+| Linear Regression | 20739.265753491687| 144.0113389754143 |119.55594176884934  |0.9770967958664648 |
+| Polynomial Regression | 18311.838329379363 | 135.32124123499372 | 119.5050655174442 |  0.9797775014649466|
+| Multivariate Regression |9648.939904768764  |  98.22901763108885 |  81.0383099083562  |  0.9893442881277547 |
 
 ## Future Prediction
 
