@@ -109,7 +109,7 @@ Multivariate Regression was used to predict wheat yield using:
 
 The model was also used to predict wheat yield for **2030**.
 
-**Predicted Yield:** PASTE VALUE HERE
+**Predicted Yield:** 3850.77943288158
 
 ## Technologies Used
 
