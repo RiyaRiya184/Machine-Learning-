@@ -51,7 +51,7 @@ Linear Regression was used to predict wheat yield using Year as the independent 
 
 ### Graph
 
-![Linear Regression Graph](Linear_regression_graph.png)
+![Linear Regression Graph](https://github.com/RiyaRiya184/Machine-Learning-/blob/main/ml%202/Images/Linear%20regression%20graph.png)
 
 ---
 
