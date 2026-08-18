@@ -70,7 +70,7 @@ Polynomial Regression with degree 2 was used to model the relationship between Y
 
 ### Graph
 
-![Polynomial Regression Graph]()
+![Polynomial Regression Graph](https://github.com/RiyaRiya184/Machine-Learning-/blob/017ebe27126e611354091e9f16674df72265b7bc/ml%202/Images/polynomial%20regression%20graph.png)
 
 ---
 
